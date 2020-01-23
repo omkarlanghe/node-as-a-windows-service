@@ -1,0 +1,14 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "node script to configure node app as a windows service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omkarlanghe@elliotsystems.com",
+  "license": "ISC",
+  "dependencies": {
+    "node-windows": "^0.1.14"
+  }
+}
