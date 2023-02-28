@@ -9,6 +9,6 @@
   "author": "omkarlanghe@elliotsystems.com",
   "license": "ISC",
   "dependencies": {
-    "node-windows": "^0.1.14"
+    "node-windows": "^1.0.0-beta.8"
   }
 }
